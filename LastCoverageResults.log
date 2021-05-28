@@ -1,0 +1,21 @@
+[2021-05-21 18:38:11] [info] Start Program:
+Path:"C:\\Users\\Razvan\\source\\repos\\OOP_AppInchiriereFilme\\x64\\Debug\\OOP_AppInchiriereFilme.exe"
+Arguments:
+Working directory: "C:\\Users\\Razvan\\source\\repos\\OOP_AppInchiriereFilme\\OOP_AppInchiriereFilme\\"
+Modules: Selected: C:\Users\Razvan\source\repos\OOP_AppInchiriereFilme\x64\Debug\OOP_AppInchiriereFilme.exe Excluded: 
+Sources: Selected: C:\Users\Razvan\source\repos\OOP_AppInchiriereFilme\OOP_AppInchiriereFilme Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Razvan\AppData\Local\Temp\cfkj4tre.lwh 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-05-21 18:38:11] [info] Module: C:\Users\Razvan\source\repos\OOP_AppInchiriereFilme\x64\Debug\OOP_AppInchiriereFilme.exe is selected because it matches selected pattern: C:\Users\Razvan\source\repos\OOP_AppInchiriereFilme\x64\Debug\OOP_AppInchiriereFilme.exe
+[2021-05-21 18:38:12] [info] ----------------------------------------------------
+[2021-05-21 18:38:12] [info] Coverage binary generated in file: C:\Users\Razvan\AppData\Local\Temp\cfkj4tre.lwh
+[2021-05-21 18:38:12] [info] ----------------------------------------------------

@@ -1,0 +1,11 @@
+Passengers;SF/Dragoste;2016;Jennifer Lawrence
+The Martian;SF;2015;Matt Damon
+Ex Machina;SF;2015;Alicia Vikander
+The Hunger Games;Actiune;2012;Jennifer Lawrence
+Pistruiatul;Aventura;1973;Costel Baloiu
+Ready Player One;SF;2018;Tye Sheridan
+I Am Legend;SF/Groaza;2007;Will Smith
+Extraction;Actiune;2020;Chris Hemsworth
+Bad Boys For Life;Comedie;2020;Will Smith & Martin Lawrence
+Interstellar;SF;2014;Matthew McConaughey
+Bird Box;Groaza;2018;Sarah Paulson
