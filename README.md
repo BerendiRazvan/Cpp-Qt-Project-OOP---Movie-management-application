@@ -1,2 +1,2 @@
 # Cpp-Qt-Project-OOP---Movie-management-application
-Aceasta este o aplicație pentru gestiunea și închirierea filmelor, realizată folosind C++ și Qt. Puteți adăuga, șterge, modifica și căuta un film din cele disponibile. Puteți filtra și sorta datele. Aplicația are, de asemenea, opțiunea de a închiria filme (adăugați în coș) și multe alte opțiuni interesante. 
+This is a movie rental and management application built using C++ and Qt. You can add, delete, modify and search for a movie from the available ones. You can filter and sort the data. The app also has the option to rent movies (add to cart) and many other interesting options.
